@@ -1,0 +1,8 @@
+
+jenkins
+docker
+kubernates
+aws
+ansible
+git and github
+sonarkube
